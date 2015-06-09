@@ -1,6 +1,6 @@
-# Castis Logger
+# Logger
 
-[Boost.log](http://www.boost.org/doc/libs/1_55_0b1/libs/log/doc/html/index.html)기반의 CiLogger formatting 지원 logging 라이브러리입니다.
+[Boost.log](http://www.boost.org/doc/libs/1_55_0b1/libs/log/doc/html/index.html)기반의 logging 라이브러리입니다.
 
 ## Features
 
@@ -10,6 +10,7 @@
 * auto flushing on/off
 * iostream 과 printf 스타일을 모두 지원
 * asyncronous logging
+* cilog format 지원
 
 ## Basic Example
 
